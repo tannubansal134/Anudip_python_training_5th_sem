@@ -60,7 +60,5 @@ for emp in employees:
     else:
         category="Needs Improvement"
 
-    print("Employee ID :", emp[0])
     print("Name :", emp[1])
-    print("Score :", emp[2])
     print("Category :", category)
