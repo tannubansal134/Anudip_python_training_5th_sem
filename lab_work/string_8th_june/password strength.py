@@ -31,6 +31,7 @@ lower_count = 0
 digit_count = 0
 special_count = 0
 
+# first check whether digit and special character exit or not
 digit_list = []
 special_list = []
 
