@@ -1,1 +1,6 @@
-this is my college management system
+MODULE 1 - Login System 
+MODULE 2 - Student Management
+MODULE 3 - Faculty Management
+MODULE 4 - Attendance 
+MODULE 5 - Marks Management
+MODULE 6 - Reports
