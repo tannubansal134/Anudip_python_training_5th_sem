@@ -1,6 +1,6 @@
 MODULE 1 - Login System 
 MODULE 2 - Student Management
 MODULE 3 - Faculty Management
-MODULE 4 - Attendance 
+MODULE 4 - Attendance Management 
 MODULE 5 - Marks Management
-MODULE 6 - Reports
+MODULE 6 - Report Generation
